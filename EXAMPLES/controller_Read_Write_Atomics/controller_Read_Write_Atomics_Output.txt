@@ -1,0 +1,7 @@
+Program:  null  Name:  tankLevel
+Program:  null  Name:  valveOpen
+Program:  null  Name:  waterGallons
+Program:  MainProgram  Name:  recipeNumber
+Tank Level:  23.5 %
+Recipe:  1
+New Recipe:  2

@@ -1,0 +1,12 @@
+Program:  null  Name:  tankLevel
+Program:  null  Name:  systemStatus
+Program:  null  Name:  valveOpen
+Program:  null  Name:  waterGallons
+Program:  MainProgram  Name:  recipe1
+Program:  MainProgram  Name:  recipeNumber
+Recipe: {
+  RecipeName: 'Fast Set Mix',
+  MixerSpeed: 81.69999694824219,
+  MixTime: 25
+}
+Status: Ready!
