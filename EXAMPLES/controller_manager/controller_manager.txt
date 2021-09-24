@@ -1,0 +1,31 @@
+## OUTPUT FILE SIMULATES SHOWS LOSING CONNECTION AND RECONNECTING PLC CONTROLLER
+
+
+systemMessages  init  undefined  =>  [
+  'Start',  'Stop',
+  'Error',  'Ready',
+  'Manual', 'Auto',
+  '',       '',
+  '',       ''
+]
+tankLevel  init  undefined  =>  45.400001525878906
+Error: TIMEOUT occurred while writing Reading Tag Group.
+    at Controller._readTagGroup (D:\projects\ST-node-ethernet-ip-examples\node_modules\st-ethernet-ip\src\controller\index.js:936:33)
+    at TaskEasy._runTask (D:\projects\ST-node-ethernet-ip-examples\node_modules\task-easy\src\index.js:118:9)
+    at TaskEasy._next (D:\projects\ST-node-ethernet-ip-examples\node_modules\task-easy\src\index.js:138:18)
+    at D:\projects\ST-node-ethernet-ip-examples\node_modules\task-easy\src\index.js:56:22
+    at new Promise (<anonymous>)
+    at TaskEasy.schedule (D:\projects\ST-node-ethernet-ip-examples\node_modules\task-easy\src\index.js:51:16)
+    at Controller.scan (D:\projects\ST-node-ethernet-ip-examples\node_modules\st-ethernet-ip\src\controller\index.js:663:18)
+Error: TIMEOUT occurred while attempting to establish TCP connection with Controller.
+    at Controller.connect (D:\projects\ST-node-ethernet-ip-examples\node_modules\st-ethernet-ip\src\enip\index.js:163:28)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Controller.connect (D:\projects\ST-node-ethernet-ip-examples\node_modules\st-ethernet-ip\src\controller\index.js:195:24)
+systemMessages  init  undefined  =>  [
+  'Start',   'Stop',
+  'Error',   'Ready',
+  'Manual',  'Auto',
+  'Warning', '',
+  '',        ''
+]
+tankLevel  init  undefined  =>  45.400001525878906
