@@ -1,0 +1,25 @@
+MixerSpeeds:  [ 5, 10, 25, 40, 55 ]
+Recipes: [
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 }
+]
+Recipes: [
+  { RecipeName: 'Base Recipe', MixerSpeed: 5, MixTime: 0 },
+  { RecipeName: 'Thin Crust Dough', MixerSpeed: 10, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 },
+  { RecipeName: '', MixerSpeed: 0, MixTime: 0 }
+]
