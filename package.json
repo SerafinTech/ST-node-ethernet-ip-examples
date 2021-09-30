@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "st-ethernet-ip": "^2.4.3"
+    "st-ethernet-ip": "^2.4.4"
   }
 }
